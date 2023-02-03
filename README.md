@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-# Welcome in my Github account.
+# Welcome in my Github Account.
 # Personal Information
 
-I am an Ecuadorian physicist from the Yachay Tech University. 
+I am an Ecuadorian physicist formed at the Yachay Tech University. Currently focus on quantum information transmition.
 
 # Current Research Interest
 
-- Main field of focus: Quantum Mechanics
+- Quantum Information and Computation.
+  - Quantum Teleportation.
+- Quantum information in Condensed Matter systems.
+- Quantum information Dynamics.
 
 
 <!--
