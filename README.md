@@ -12,6 +12,9 @@ I am an Ecuadorian physicist formed at the Yachay Tech University. Currently foc
 - Quantum information in Condensed Matter systems.
 - Quantum information Dynamics.
 
+# Contact
+
+Feel free of contacting me: jonathan.pineda@yachaytech.edu.ec
 
 <!--
 **jpineda1995/jpineda1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
