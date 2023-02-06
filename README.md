@@ -3,7 +3,7 @@
 # Welcome in my Github Account.
 # Personal Information
 
-I am an Ecuadorian physicist formed at the Yachay Tech University. Currently focus on quantum information transmition.
+I am an Ecuadorian physicist formed at the Yachay Tech University. Currently focus on quantum information theory.
 
 # Current Research Interest
 
